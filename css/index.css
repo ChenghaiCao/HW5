@@ -44,10 +44,6 @@ input{
   color: black;
 }
 
-label{
-  margin-left: 0px;
-}
-
 #table {
   text-align: center;
   max-height: 700px;
@@ -91,7 +87,6 @@ label{
 }
 
 #form input[type='number'] {
-    margin-right: 20px;
     font-size: 120%;
     font-family: monospace;
 }
